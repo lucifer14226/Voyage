@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "654450552371",
+    "project_id": "fease-money",
+    "storage_bucket": "fease-money.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654450552371:android:c1c9a3fa3a3f88fd41bd46",
+        "android_client_info": {
+          "package_name": "com.nikhil.fease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654450552371-u6lg5psb693sp0jr2j9g2lk0bkvb8q4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKH1Oc6AGlB151OBjoU1qWITtfJ4JlZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654450552371-u6lg5psb693sp0jr2j9g2lk0bkvb8q4q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654450552371-dfk8mvjctjuspd0t5dm5lvlunspgp5u9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nikhil.fease"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
